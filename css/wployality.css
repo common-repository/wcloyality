@@ -1,0 +1,23 @@
+    
+.slick-arrow {
+        background-color: #ff6600!important; 
+        color: blue;
+        }
+
+
+.slick {
+        width: 500px;
+        height: 400px;
+}
+
+.gift_card_purchase_amount
+        {
+        width: 400px; 
+        height: 300px;       
+        }
+
+.voucher_block_list
+        {
+        width: 400px; 
+        height: 300px;         
+        }
